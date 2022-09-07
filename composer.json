@@ -1,7 +1,8 @@
 {
-  "name": "boristim/oauth2-esia",
+  "name": "ekapusta/oauth2-esia",
   "type": "library",
   "description": "Allows to authenticate in ESIA and get authenticated individual personal information.",
+  "version": "0.1",
   "keywords": [
     "oauth2",
     "oauth2-provider",
